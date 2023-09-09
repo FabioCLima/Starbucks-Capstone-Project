@@ -41,3 +41,5 @@ The data is contained in three files:
 By understanding which demographic groups respond best to which offer type, Starbucks can optimize its promotional strategies, ensuring that customers receive relevant and appealing offers. This not only enhances the customer experience but also ensures efficient use of promotional resources.
 
 For anyone interested in understanding the intricate details, the provided Jupyter notebook is a comprehensive resource that walks through each step of the analysis, complete with code, visualizations, and explanations.
+
+Medium article: https://medium.com/@lima.fisico/unlocking-customer-insights-a-data-science-journey-with-starbucks-214d416c0dcc
