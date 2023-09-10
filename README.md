@@ -17,16 +17,16 @@
 
 ## Introduction <a name="introduction"></a>
 
-The Starbucks Capstone Challenge is a project within the Udacity Data Scientist Nanodegree program. For this project, Starbucks provided simulated data that mimics customer behavior on their rewards mobile app.
+The Starbucks Capstone Challenge is a Udacity Data Scientist Nanodegree program project. For this project, Starbucks provided simulated data miming customer behavior on their rewards mobile app.
 
 ## Objective <a name="objective"></a>
 
-The primary goal is to combine transaction, demographic, and offer data to determine which demographic groups are most responsive to different types of offers. This understanding will enable Starbucks to target their promotions more effectively.
+The primary goal is to combine transaction, demographic, and offer data to determine which demographic groups most respond to different offers. This understanding will enable Starbucks to target its promotions more effectively.
 
 ---
 
 ## Methodology <a name="methodology"></a>
-For this project I am going to using the CRISP-DM methodology. The python libraries used are: 
+For this project, I am going to use the CRISP-DM methodology. The Python libraries used are: 
 
 * asttokens==2.2.1
 * backcall==0.2.0
